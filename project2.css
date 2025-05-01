@@ -37,9 +37,9 @@
     grid-template-rows: 1fr 1fr 1fr;
 
     grid-template-areas:
-        "first first"
-        "second second"
-        "third third"
+        "first"
+        "second"
+        "third"
 
 }
 
