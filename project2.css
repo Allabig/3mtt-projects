@@ -22,14 +22,6 @@
 
 }
 
-.grid div:nth-child(even) {
-    background-color:;
-}
-
-.grid div:nth-child(odd) {
-    background-color: ;
-
-}
 
 .grid {
     display: grid;
