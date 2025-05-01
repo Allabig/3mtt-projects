@@ -23,11 +23,11 @@
 }
 
 .grid div:nth-child(even) {
-    background-color: red;
+    background-color:;
 }
 
 .grid div:nth-child(odd) {
-    background-color: blue;
+    background-color: ;
 
 }
 
